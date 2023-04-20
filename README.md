@@ -1,2 +1,2 @@
 # Cpp-Projects
- A Repository Containing Open Source Projects in C++, Beginner Level And Average Level And Pro Level.
+مستودع يحتوي على مشاريع مفتوحة المصدر بلغة سي بلس بلس، مستوى مبتدئ ومتوسط وإحترافي.
